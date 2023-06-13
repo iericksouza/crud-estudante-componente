@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Erick",
+    "email": "erick@gmail.com",
+    "telephone": "11985834506"
+  },
+  {
+    "id": 2,
+    "name": "Carlos",
+    "email": "carlos@gmail.com",
+    "telephone": "11968432023"
+  },
+  {
+    "id": 3,
+    "name": "José",
+    "email": "carlos@gmail.com",
+    "telephone": "1197510422"
+  },
+  {
+    "id": 4,
+    "name": "Guilherme",
+    "email": "guilherme@gmail.com",
+    "telephone": "11954879878"
+  },
+  {
+    "id": 5,
+    "name": "William",
+    "email": "william@gmail.com",
+    "telephone": "11999281384"
+  }
+
+]

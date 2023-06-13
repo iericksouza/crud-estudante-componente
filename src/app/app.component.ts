@@ -1,4 +1,13 @@
 import { Component } from '@angular/core';
+import { studentData } from './estudante.json';
+
+interface Estudante {
+  id: number;
+  name: string;
+
+  email: string;
+  telephone: number
+}
 
 @Component({
   selector: 'app-root',
@@ -7,4 +16,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'crud-estudante-componente';
+
+  estudantes: Estudante[] = studentData;
 }
